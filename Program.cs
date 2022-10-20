@@ -1,6 +1,7 @@
 ﻿//Chris Martinez
 // GitHub Challenge ADD TWO NUMBERS
 // 10/18/22
+// adding two numbers is the main function of this game, now I can also count with the added feature, that which is Data Validation.
 
 string numberOne = "";
 string numeroTwo = "";
