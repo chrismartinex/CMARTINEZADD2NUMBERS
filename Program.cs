@@ -1,8 +1,12 @@
 ﻿//Chris Martinez
 // GitHub Challenge ADD TWO NUMBERS
 // 10/18/22
+<<<<<<< HEAD
 //10/20/22
 //10/20/22
+=======
+// adding two numbers is the main function of this game, now I can also count with the added feature, that which is Data Validation.
+>>>>>>> b7d53014eb51f21274628a90af6e3d7c2d57b434
 
 string numberOne = "";
 string numeroTwo = "";
